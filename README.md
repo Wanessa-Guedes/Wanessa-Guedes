@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi :wave: and welcome :simple_smile:!
 
 <!--
 **Wanessa-Guedes/Wanessa-Guedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
