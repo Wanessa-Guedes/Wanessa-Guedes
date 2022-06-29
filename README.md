@@ -1,4 +1,11 @@
-# Hi :wave: and welcome :smiley:!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Icaro-pavani.Icaro-pavani">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!;I'm+Wanessa+Guedes....;Nice+to+meet+you!+👋😄&center=true&size=30">
+  </a>
+</h1>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=Wanessa-Guedes" />
 
