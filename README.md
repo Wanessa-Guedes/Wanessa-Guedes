@@ -1,6 +1,6 @@
 # Hi :wave: and welcome :smiley:!
 
-![image]({https://github-readme-stats.vercel.app/api?username=Wanessa-Guedes})
+<img src="https://github-readme-stats.vercel.app/api?username=Wanessa-Guedes" />
 
 <!--
 **Wanessa-Guedes/Wanessa-Guedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
