@@ -1,4 +1,4 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Wanessa-Guedes.Wanessa-Guedes"> -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Wanessa-Guedes.Wanessa-Guedes">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
