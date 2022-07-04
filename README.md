@@ -29,7 +29,7 @@
 <hr>
 <h2 align="center"> Social 📱 </h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/engenheira-eletricista-wanessa-guedes/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/eng-wanessa-guedes/" title="LinkedIn Profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
 
 <!--
