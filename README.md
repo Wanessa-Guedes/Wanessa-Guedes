@@ -43,11 +43,11 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </div>
 
-<hr>
+<!-- <hr>
 <h2 align="center"> Stats 📊</h2> 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Wanessa-Guedes&theme=dracula" />
-</p>
+</p> -->
 
 <hr>
 <h2 align="center"> Social 📱 </h2>
